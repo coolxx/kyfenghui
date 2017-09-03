@@ -194,12 +194,13 @@ header p{
 }
 .m3_c2 ul li{
 	float: left;
-	width: 8.67rem;
+	width: 8.6rem;
 	height: 3.175rem;
 }
 .m3_c2 ul li p{
-	width: 8.67rem;
+	width: 8.6rem;
 	height: 2.85rem;
+	
 	margin-top: 0.2rem;
 	text-align: center;
 	line-height: 2.85rem;
