@@ -200,12 +200,11 @@ header p{
 .m3_c2 ul li p{
 	width: 8.6rem;
 	height: 2.85rem;
-	
 	margin-top: 0.2rem;
 	text-align: center;
 	line-height: 2.85rem;
 }
-.m3_c2 ul li p:first-child{
+.m3_c2 ul li:nth-child(2) p{
 	border-left: 1px solid #dadada
 }
 .m3_c2 ul li p a{
